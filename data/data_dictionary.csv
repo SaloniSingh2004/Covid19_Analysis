@@ -1,0 +1,9 @@
+column_name,data_type,sample_value_1,sample_value_2,sample_value_3,nullable,description_fill_in
+date,object/numeric,2024-01-01,2024-01-01,2024-01-01,No,date — [Learner to fill in description]
+country,object/numeric,India,USA,Brazil,No,country — [Learner to fill in description]
+confirmed,object/numeric,1408738,1128067,3119576,No,confirmed — [Learner to fill in description]
+deaths,object/numeric,33164,67534,6830,No,deaths — [Learner to fill in description]
+recovered,object/numeric,2919201,2793134,2074496,No,recovered — [Learner to fill in description]
+vaccinated,object/numeric,658769468,400733312,388650343,No,vaccinated — [Learner to fill in description]
+population,object/numeric,330000000,215000000,67000000,No,population — [Learner to fill in description]
+continent,object/numeric,Oceania,Asia,Asia,No,continent — [Learner to fill in description]
